@@ -124,8 +124,8 @@ ul {
 #contacts {
     text-align: left;
     margin-left: 60px;
-    margin-top: 70px;
-    line-height: 5rem;
+    margin-top: 20px;
+    line-height: 4.5rem;
     font-size: 1.25rem;
 
 }
@@ -161,7 +161,7 @@ ul {
 }
 
 #socialmedia {
-    margin: 70px 0 0 0;
+    margin: 25px 0 0 0;
 }
 
 #socialmedia i {
@@ -170,8 +170,8 @@ ul {
 }
 
 #bank {
-    width: 400px;
-    height: 100px;
+    width: 300px;
+    height: 200px;
     display: block;
     margin: 0 auto 0 auto;
 }
